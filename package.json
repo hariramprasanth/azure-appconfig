@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@azure/app-configuration": "^1.6.0",
+    "@azure/identity": "^4.1.0"
+  }
+}
